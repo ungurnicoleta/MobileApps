@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="buttonAdd">Add new</string>
+    <string name="buttonShare">Share</string>
+    <string name="textView_mainActivity">My Shopping list</string>
+    <string name="messageFromUser">Msg</string>
+    <string name="enter_message_here">Add a new item here</string>
+    <string name="avatar_food">TODO</string>
+    <string name="view_list">View List</string>
+    <string name="title">Title</string>
+    <string name="list_item_text" />
+    <string name="image">item_image</string>
+    <string name="test" />
+    <string name="edit">EDIT</string>
+    <string name="edit_item">Edit Item</string>
+</resources>
